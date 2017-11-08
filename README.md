@@ -15,4 +15,10 @@ E o GMaps pode errar também. Se procurar a rua Pernambuco em São Paulo, ele po
 Há um limite de consultas de 2500 consultas diárias por dia no Google Maps, com esta API grátis. 
 
 
-https://ferramentasexcelvba.wordpress.com
+
+Ferramentas em Excel VBA
+https://ferramentasexcelvba.wordpress.com/
+
+
+Ideias técnicas com um pouco de filosofia
+https://ideiasesquecidas.com/
