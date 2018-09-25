@@ -1,6 +1,7 @@
 # EncontraDistanciasVBA
 Encontra distância entre dois pontos a partir do Excel
 
+(Update em set/2018: O Google mudou a chamada da API. Agora é necessário ter abrir uma conta e colocar a chave na chamada, de modo que o código abaixo não funciona mais. Não devo mexer no código por não eu ter demanda para isto no momento)
 
 Esta é uma ferramenta muito útil para Logística.
 
